@@ -1,5 +1,5 @@
 ## Hi there We are Insight-Ecom Team👋
-![스크린샷 2024-02-08 155111](https://github.com/InsightEcom/.github/assets/109497684/d2545721-d5df-4a84-884a-c9d5204b71b1)
+![frod_23797_The_name_of_our_GitHub_organization_is_InsightEcom](https://github.com/InsightEcom/.github/assets/109497684/eeb1ee0f-b975-452b-85ba-69b6d224273c)
 
 ### Introduction to Our GitHub Organization and Team
 Our organization is at the forefront of AI, ML, and DevOps innovations, undertaking projects that are not only challenging but also pioneering in the field.
